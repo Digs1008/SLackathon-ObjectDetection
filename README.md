@@ -51,8 +51,11 @@ The application should have access to the traffic camera feed. It will have a UI
 
 ### The architecture
 
+Process wise flow is already covered above.
 
-Rest of the usecase-wise flow is already covered above.
+### Dataset
+
+https://www.kaggle.com/datasets/chitholian/annotated-potholes-dataset 
 
 ### Project roadmap
 
