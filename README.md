@@ -43,7 +43,7 @@ The application should have access to the traffic camera feed. It will have a UI
     TBD
 
 ### The architecture
-    ![Screenshot](ImageCapture.png)
+    ![Capture Traffic Photos](https://github.com/Digs1008/SLackathon-ObjectDetection/blob/main/ImageCapture.png)
 
 
 ### Project roadmap
