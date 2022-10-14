@@ -15,6 +15,8 @@ The next category of road safety is finding the vehicles which are not adhering 
 
 ### How can technology help?
 
+We can build a <b>CNN based deep learning model</b> which would use <b>object detection technique</b>.
+
 
 ### The idea
 
