@@ -43,6 +43,7 @@ The application should have access to the traffic camera feed. It will have a UI
     
     Vehicles jumping traffic signal
 
+<img width="1071" alt="violation-2" src="https://user-images.githubusercontent.com/37891634/195848972-088389d5-59e4-4598-b611-032003fe11e4.png">
 
 
 ### Demo video
