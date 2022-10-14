@@ -30,7 +30,8 @@ The proposal here is to build an application that can help with multiple usecase
 The application should have access to the traffic camera feed. It will have a UI interface wherein the users having smartphone can upload images. This application should be integrated with the systems of local governing body to perform various actions as described below :
 
     Pothole Detection
-    
+   <img width="1102" alt="PotHole-Detection" src="https://user-images.githubusercontent.com/37891634/195845162-3796af74-b1bb-4109-971e-06ecd1adfafd.png">
+ 
     
     Biker with no helmet
     
@@ -45,6 +46,8 @@ The application should have access to the traffic camera feed. It will have a UI
 ### The architecture
 
 <img width="612" alt="ImageCapture" src="https://user-images.githubusercontent.com/37891634/195841215-59c8d4e3-833e-447c-a153-632d859c4b9d.png">
+
+Rest of the usecase-wise flow is already covered above.
 
 ### Project roadmap
 
