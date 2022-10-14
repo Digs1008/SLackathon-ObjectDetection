@@ -20,9 +20,23 @@ We can build a mobile application that would have <i>CNN based deep learning mod
 The next Qn is where does the application fetches such images from ? For this part we would rely on cameras installed at various traffic signals by local governing body. The obvious limititaion here is not every traffic signal has camera and installing it would be a much bigger cost.
 To address this, we can rely on the fact that most people have a smartphone with good camera. The porposla here is to allow individuals to click photo of potholes or bikers with no helmet etc and upload it to the application.
 
+The next Qn could be why would individual take that effoert ? 
+Well, given this whole process is going to improve the overall state of traffic and road, it would effectively benefit every individual commuter. But we would further add some reward system wherein individual would get points for each unreported pothole or traffic violation.
 
 
 ### The idea
+
+The proposal here is to build an application that can help with multiple usecases we discussed under problem section. 
+The application should have access to the traffic camera feed. It will have a UI interface wherein the users having smartphone can upload images. This application should be integrated with the systems of local governing body to perform various actions as described below :
+
+    Pothole Detection
+    
+    
+    Biker with no helmet
+    
+    
+    Vehicles jumping traffic signal
+
 
 
 ### Demo video
@@ -31,3 +45,18 @@ To address this, we can rely on the fact that most people have a smartphone with
 
 
 ### Project roadmap
+
+The application would  evolve to help with below more items :
+   
+   . Vendor Selection for road maintenance based on their performance of fixing the potholes reported by the application
+   
+   . Prediction of traffic volume on various roads and it's impact on road condition. This in turn can help with identification of spots with potential   
+   flyover construction.
+   
+   . Predicting road maintenance schedule that could minimise pothole creation on road.
+   
+   . Identification of the places where more traffic violation incident takes place. The local authority could deploy more traffic police in such areas. So 
+   it helps with  better utilization of man-force that traffic department has. 
+   
+   
+
