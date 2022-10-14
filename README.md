@@ -43,7 +43,7 @@ The application should have access to the traffic camera feed. It will have a UI
     TBD
 
 ### The architecture
-    TBD
+    ![Screenshot](ImageCapture.png)
 
 
 ### Project roadmap
