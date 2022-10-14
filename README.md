@@ -29,6 +29,17 @@ Well, given this whole process is going to improve the overall state of traffic 
 The proposal here is to build an application that can help with multiple usecases we discussed under problem section. 
 The application should have access to the traffic camera feed. It will have a UI interface wherein the users having smartphone can upload images. This application should be integrated with the systems of local governing body to perform various actions as described below :
 
+1. Signal cameras feed could be primarily used to find traffic violation .e.g over speeding, signal breaking, no helmet while riding bike etc.
+
+2. For Pothole detection we rely on people using the app and uploading the photos. Some drones could be further deployed which can click photos of road in 
+   night (least traffic so clear visible roads).
+   
+3. A new case would be created everytime a new pothole is detected. There would be whole lot of data that would be captured from creation to closure of the    case such as Time Taken, Rupess Spent, Number of Labors, Actual Start of the work, vendor, No of accidents that happen due to that pothole etc. This    
+   data would further be used to build a new ML model which would help with roadmap items such as vendor selection, special handling of certain roads,    
+   maintenance cost prediction etc.
+   
+4.  The application would also deduce some more data such as  vehicle volume/flow over day , type of vehicles (heavy, medium, small etc), traffic jam points etc based on the traffic camera feed. This data could be further used to build a new model that can help with prediction of potential flyover points. The ML model should also be able to establish relation between the  wear and tear of the road due to above mentiond data points  and predict road maintenance schedule as well.  
+
 
 <img width="612" alt="ImageCapture" src="https://user-images.githubusercontent.com/37891634/195841215-59c8d4e3-833e-447c-a153-632d859c4b9d.png">
 
