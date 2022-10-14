@@ -40,8 +40,10 @@ The application should have access to the traffic camera feed. It will have a UI
 
 
 ### Demo video
+    TBD
 
 ### The architecture
+    TBD
 
 
 ### Project roadmap
