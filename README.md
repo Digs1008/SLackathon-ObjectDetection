@@ -1,4 +1,4 @@
-# Road Safety and management
+# Road Safety and Management
 
 ## Short description
 
@@ -15,7 +15,11 @@ The next category of road safety is finding the vehicles which are not adhering 
 
 ### How can technology help?
 
-We can build a <b>CNN based deep learning model</b> which would use <b>object detection technique</b>.
+We can build a mobile application that would have <i>CNN based deep learning model</i> as it's core component. This model would use <b>object detection techniques</b> and create bounding boxes on the objects identified such as people, potholes, vehicles etc.
+
+The next Qn is where does the application fetches such images from ? For this part we would rely on cameras installed at various traffic signals by local governing body. The obvious limititaion here is not every traffic signal has camera and installing it would be a much bigger cost.
+To address this, we can rely on the fact that most people have a smartphone with good camera. The porposla here is to allow individuals to click photo of potholes or bikers with no helmet etc and upload it to the application.
+
 
 
 ### The idea
