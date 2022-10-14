@@ -43,9 +43,8 @@ The application should have access to the traffic camera feed. It will have a UI
     TBD
 
 ### The architecture
-    <img width="612" alt="ImageCapture" src="https://user-images.githubusercontent.com/37891634/195841215-59c8d4e3-833e-447c-a153-632d859c4b9d.png">
 
-
+<img width="612" alt="ImageCapture" src="https://user-images.githubusercontent.com/37891634/195841215-59c8d4e3-833e-447c-a153-632d859c4b9d.png">
 
 ### Project roadmap
 
