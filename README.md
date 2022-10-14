@@ -49,6 +49,10 @@ The application should have access to the traffic camera feed. It will have a UI
 ### Project roadmap
 
 The application would  evolve to help with below more items :
+
+   . Classify potholes under variou categories such as small, large, medium based on the size. Also classify them based on the impact as "life 
+   threatening", "huge-traffic", "medium-traffic" etc. This combined together would help in prioritizing the fixing of potholes as all can't be done in one 
+   go.
    
    . Vendor Selection for road maintenance based on their performance of fixing the potholes reported by the application
    
